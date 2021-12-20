@@ -7,9 +7,16 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 
 
 🔭 I’m currently working on web devolopment
+
 🌱 I’m currently learning javascript
+
 👯 I’m looking to collaborate on learning js 
+
 🤔 I’m looking for help with learning js,react,redux
+
 😄 he
-⚡ Fun fact: I have a mind who has unstoppable.
-<img src="https://github.com/yektaonuren/yektaonuren/blob/main/52whale.jpg" width="50" height="50">
+
+⚡ Fun fact: Tired
+
+
+<img src="https://github.com/yektaonuren/yektaonuren/blob/main/52whale.jpg" width="250" height="250">
