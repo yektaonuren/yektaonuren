@@ -7,16 +7,15 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 
 
 🔭 I’m currently working on web devolopment
-
 🌱 I’m currently learning javascript
-
 👯 I’m looking to collaborate on learning js 
-
 🤔 I’m looking for help with learning js,react,redux
-
 😄 he
-
 ⚡ Fun fact: Tired
+<br/>
+<br/>
+<br/>
 
 
-<img src="https://github.com/yektaonuren/yektaonuren/blob/main/52whale.jpg" width="250" height="250">
+<img align="right" src="https://github.com/yektaonuren/yektaonuren/blob/main/52whale.jpg" width="350" height="190" >
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yektaonuren&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
