@@ -12,4 +12,4 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 🤔 I’m looking for help with learning js,react,redux
 😄 he
 ⚡ Fun fact: I have a mind who has unstoppable.
-https://kulturveyasam.com/wp-content/uploads/2020/10/balina-kapak-02.jpg
+<img src=" https://kulturveyasam.com/wp-content/uploads/2020/10/balina-kapak-02.jpg" width="auto">
