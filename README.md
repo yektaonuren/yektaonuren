@@ -2,7 +2,7 @@
 Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriz varsa memnun olurum.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yektaonuren&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=yektaonuren&show_icons=true&theme=radical)
+
 
 
 
