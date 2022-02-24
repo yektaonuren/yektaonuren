@@ -18,5 +18,5 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 
  <img weight="auto" height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yektaonureren&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
  
-<img align="center" src="https://github.com/yektaonuren/yektaonureren/blob/main/52whale.jpg" width="350" height="150" >
+<img align="center" src="https://github.com/yektaonureren/yektaonureren/blob/main/52whale.jpg" width="350" height="150" >
   
