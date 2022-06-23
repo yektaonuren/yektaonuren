@@ -1,5 +1,5 @@
 ### Hi there 👋
-Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriz varsa memnun olurum.
+Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriniz varsa memnun olurum.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yektaonureren&show_icons=true&theme=gradient) 
 
