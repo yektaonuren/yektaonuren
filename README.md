@@ -4,6 +4,7 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 https://www.linkedin.com/in/yektaonureren/ <br/>
 https://www.hackerrank.com/yektaonureren <br/>
 https://exercism.org/profiles/yektaonureren <br/>
+Bana ulaş:yektaonureren@outlook.com
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yektaonureren&show_icons=true&theme=gradient) 
