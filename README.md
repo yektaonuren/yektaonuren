@@ -1,5 +1,5 @@
-### Hi there 👋
-Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriniz varsa memnun olurum.
+### Merhaba 👋
+Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriniz varsa memnun olurum.Hackerrank,leetcode,freecodecamp ve exercism platformları üzerinde algoritma ve veri yapıları becerilerimi geliştirmeye çalışıyorum.Daha önce üniversitede python ve c++ ile algoritma ve veri yapıları soruları çözdüm ancak 2021 başından beri bunu vanilla js ile  yapmaya çalışıyorum.Devolopment için clone projeler yapıyorum ve patika.dev üzerinde çalışıyorum.Hedefim react framework öğrenip geliştirmeler yapmak.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yektaonureren&show_icons=true&theme=gradient) 
 
@@ -7,11 +7,10 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 
 
 🔭 I’m currently working on web devolopment
-🌱 I’m currently learning javascript
-👯 I’m looking to collaborate on learning js 
+🌱 I’m currently working with vanilla javascript
+👯 I’m looking to collaborate on solving algorithm
 🤔 I’m looking for help with learning js,react,redux
-😄 he
-⚡ Fun fact: Tired
+
 <br/>
 <br/>
 <br/>
