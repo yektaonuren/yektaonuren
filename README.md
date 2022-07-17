@@ -4,6 +4,7 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 https://www.linkedin.com/in/yektaonureren/ <br/>
 https://www.hackerrank.com/yektaonureren <br/>
 https://exercism.org/profiles/yektaonureren <br/>
+https://leetcode.com/yektaonureren/ <br/>
 Bana ulaş:yektaonureren@outlook.com
 
 
