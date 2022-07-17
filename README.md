@@ -6,7 +6,7 @@ Merhaba ben yekta.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyel
 
 
 
-🔭 I’m currently working on web devolopment
+🔭 I’m currently working on web development
 🌱 I’m currently working with vanilla javascript
 👯 I’m looking to collaborate on solving algorithm
 🤔 I’m looking for help with learning js,react,redux
