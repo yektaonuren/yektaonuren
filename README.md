@@ -10,14 +10,10 @@ Bana ulaş:yektaonureren@outlook.com
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yektaonureren&show_icons=true&theme=gradient) 
 
-
-
-
-🔭 I’m currently working on web development with html,css,js,boostrap
-🌱 I’m currently working with vanilla javascript
-👯 I’m looking to collaborate on solving algorithm
-🤔 I’m looking for help with learning js,react,redux <br/>
-    reach me:yektaonureren@outlook.com
+HTML
+CSSS
+JAVASCRIPT
+REACT
 
 <br/>
 <br/>
