@@ -9,7 +9,8 @@ Bana ulaş:yektaonureren@outlook.com
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yektaonureren&show_icons=true&theme=gradient) 
-
+<br>
+<h3>Language and tools<h3>
 <a href = 'https://en.wikipedia.org/wiki/HTML'> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <a href = 'https://en.wikipedia.org/wiki/CSS'> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
 <a href = 'https://www.javascript.com/'> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></a>
