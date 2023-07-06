@@ -1,5 +1,5 @@
 ### Merhaba 👋
-Merhaba ben yekta.Mekatronik mühendisliği ve bilgisayar programcılığı mezunuyum.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriniz varsa memnun olurum.Hackerrank,leetcode,freecodecamp ve exercism platformları üzerinde algoritma ve veri yapıları becerilerimi geliştirmeye çalışıyorum.Daha önce üniversitede python ve c++ ile algoritma ve veri yapıları soruları çözdüm ancak 2021 başından beri bunu vanilla js ile  yapmaya çalışıyorum.Development için clone projeler yapıyorum ve patika.dev üzerinde çalışıyorum.Hedefim react framework öğrenip geliştirmeler yapmak.<br/>
+Merhaba ben yekta.Mekatronik mühendisliği ve bilgisayar programcılığı mezunuyum.Ön yüz gelştirici olmaya çalışıyorum bu konuda tavsiyeleriniz,teklifleriniz varsa memnun olurum.Hackerrank,leetcode,freecodecamp ve exercism platformları üzerinde algoritma ve veri yapıları becerilerimi geliştirmeye çalışıyorum.Daha önce üniversitede python ve c++ ile algoritma ve veri yapıları soruları çözdüm ancak 2021 başından beri bunu vanilla js ile  yapmaya çalışıyorum..<br/>
 
 https://www.linkedin.com/in/yektaonureren/ <br/>
 https://www.hackerrank.com/yektaonureren <br/>
